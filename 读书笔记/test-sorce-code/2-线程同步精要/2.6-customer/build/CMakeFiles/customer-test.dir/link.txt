@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -std=c++11  -rdynamic CMakeFiles/customer-test.dir/2-6-customer.cpp.o CMakeFiles/customer-test.dir/Thread.cc.o  -o bin/customer-test -lm -lpthread 

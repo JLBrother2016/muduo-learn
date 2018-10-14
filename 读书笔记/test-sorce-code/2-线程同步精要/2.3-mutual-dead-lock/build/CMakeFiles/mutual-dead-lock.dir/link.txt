@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -std=c++11  -rdynamic CMakeFiles/mutual-dead-lock.dir/2-3-mutual-dead-lock.cpp.o CMakeFiles/mutual-dead-lock.dir/Thread.cc.o  -o bin/mutual-dead-lock -lm -lpthread 
