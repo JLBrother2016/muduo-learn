@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Acceptor.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Buffer.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Channel.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Condition.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Connector.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/CountDownLatch.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Date.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/DefaultPoller.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/EPollPoller.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/EventLoop.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/EventLoopThread.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/EventLoopThreadPool.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Exception.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/FileUtil.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/InetAddress.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/LogStream.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Logging.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/PollPoller.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Poller.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Socket.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/SocketsOps.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/TcpClient.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/TcpConnection.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/TcpServer.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Thread.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/ThreadPool.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/TimeZone.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Timer.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/TimerQueue.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/source-lib/Timestamp.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/server_multiloop.cc.o"
+  "CMakeFiles/sudoku_solver_multiloop.dir/sudoku.cc.o"
+  "bin/sudoku_solver_multiloop.pdb"
+  "bin/sudoku_solver_multiloop"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/sudoku_solver_multiloop.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
